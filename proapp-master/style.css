@@ -1456,7 +1456,8 @@ hr.invis1 {
     border-radius: 38px;
 }
 .mobilescreen-image{
-	background-image: url(uploads/app-mobile.png);
+	/*background-image: url(uploads/app-mobile.png);*/
+	background-image: url(uploads/pc-mobile_2.png);
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 	display: block;
